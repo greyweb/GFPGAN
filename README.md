@@ -5,7 +5,10 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 
 ## Description
 
-I am sharing a colab notebook which I had used to experiment and see the results of GFP-GAN from `https://github.com/TencentARC/GFPGAN`
+I am sharing a colab notebook which I had used to experiment and see the results of GFP-GAN from https://github.com/TencentARC/GFPGAN
+
+## My Results
+
 
 ## Citation
 `@InProceedings{wang2021gfpgan,
