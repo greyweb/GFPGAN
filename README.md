@@ -10,6 +10,7 @@ I am sharing a colab notebook which I had used to experiment and see the results
 ## My Results
 #### Input:
 <img src="Input.jpg" width="500" height="600"> 
+
 #### Output:
 <img src="Output.jpg" width="500" height="600">
 
