@@ -8,7 +8,10 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 I am sharing a colab notebook which I had used to experiment and see the results of GFP-GAN from https://github.com/TencentARC/GFPGAN using my childhood images.
 
 ## My Results
-#### Input :<img src="Input.jpg" width="500" height="600"> #### Output:<img src="Output.jpg" width="500" height="600">
+#### Input:
+<img src="Input.jpg" width="500" height="600"> 
+#### Output:
+<img src="Output.jpg" width="500" height="600">
 
 ## Citation
 `@InProceedings{wang2021gfpgan,
