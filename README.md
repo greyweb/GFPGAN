@@ -8,7 +8,7 @@ It leverages rich and diverse priors encapsulated in a pretrained face GAN (e.g.
 I am sharing a colab notebook which I had used to experiment and see the results of GFP-GAN from https://github.com/TencentARC/GFPGAN
 
 ## My Results
-
+<img src="Input.jpg"> <img src="Ouput.jpg">
 
 ## Citation
 `@InProceedings{wang2021gfpgan,
